@@ -1,0 +1,16 @@
+ /* Sigla image */
+ img.sigla {
+    padding-left: 30px;
+    width: 90%;
+    cursor: pointer;
+  }
+
+  /*Background*/
+  body {
+    background-color: #E1F5FE;
+   }
+
+   /*Nav color*/
+   nav .navbar-nav li a{
+    color: #607D8B !important;
+    }
